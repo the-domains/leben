@@ -1,0 +1,14 @@
+layout_spectrum: 0.9990727
+typography_spectrum: 0.4756217
+color:
+  saturation: 0.8049287
+  lightness: 0.1073593
+  brandStrength: 0.9511245
+  rhythmicContrast: 0.9564921
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Leben
