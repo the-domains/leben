@@ -1,16 +1,28 @@
-typography_spectrum: 0.4756217
+title: Worum geht es eigentlich?
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.8049287
+  brandStrength: 0.8942652
   lightness: 0.1073593
-  brandStrength: 0.9511245
-  rhythmicContrast: 0.9564921
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#09060D'
+    - '#FFFDFF'
+    - '#91A2DA'
+    - '#7F7746'
+    - '#9C3145'
+  rhythmicContrast: 0.9564921
+typography_spectrum: 0.007168459
+description: Sinn des Lebens
 layout_spectrum: 0.9990727
 name: Leben
-title: Worum geht es eigentlich?
-description: Sinn des Lebens
