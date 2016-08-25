@@ -16,11 +16,11 @@ color:
   brandStrength: 0.8942652
   lightness: 0.1073593
   brandColors:
-    - '#09060D'
-    - '#FFFDFF'
-    - '#91A2DA'
-    - '#7F7746'
-    - '#9C3145'
+    - '#3D73CB'
+    - '#6BB0F3'
+    - '#65843E'
+    - '#364130'
+    - '#86A15C'
   rhythmicContrast: 0.9564921
 typography_spectrum: 0.007168459
 description: Sinn des Lebens
